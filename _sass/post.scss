@@ -5,6 +5,7 @@
 
 .inner-header {
   display:none;
+  background:linear-gradient(180deg, rgba(240,240,240,1) 0%, rgba(224,224,224,1) 100%);
   border-radius:1rem 1rem 0 0;
   padding:8px 16px;
 
@@ -18,7 +19,8 @@
 }
 
 .inner-content {
-  
+  background:#fff;
+
   img {
     display:block;
     text-align:center;
@@ -52,6 +54,7 @@
   margin:auto;
   padding:1rem 0;
   text-align:center;
+  backdrop-filter:blur(4px);
   background-color:rgba(255, 255, 255, 0.5);
 }
 
@@ -619,6 +622,7 @@ main {
 
 .inner-content {
   border-radius:0 0 1rem 1rem;
+  box-shadow:0 16px 16px 8px rgba(31, 35, 46, 0.15);
 }
 
 .top-arrow { left:calc(#{$sidebarwd} + var(--pagewidth-desktop) - 4rem); }
