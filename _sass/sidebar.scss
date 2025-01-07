@@ -308,6 +308,13 @@
   margin-left:calc(var(--pagewidth-desktop) + #{$sidebarwd}/2);
 }
 
+.sidebar-top{
+  float: left;
+  display:flex;
+  width:100%;
+  text-align: center;
+  padding: 14px 16px;
+  height:200px;
 }
 
 @include mq(wide){
