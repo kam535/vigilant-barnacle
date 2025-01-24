@@ -79,14 +79,14 @@
 
   &:hover {
     transform:scale(1.25);
-    svg { fill:$color-darkorange; }
+    svg { fill:#0B492B; }
   }
 }
 
 .nav-lh svg {
   margin-left:-0.25rem;
   position:relative;
-  fill:$color-darkorange;
+  fill:#0B492B;
   transform:translateY(-2px);
 }
 .nav-sh svg { 
@@ -151,14 +151,14 @@
     display:block;
     left:0;
     border-radius:1.5rem;
-    background:rgba(gold, .375);
+    background:#B1DE73;
     width:3rem;
     height:3rem;
     transition:.3s;
   }
   &:hover:before {
     width:105%;
-    background:gold;
+    background:#B1DE73;
   }
 
   svg { transform:none; }
