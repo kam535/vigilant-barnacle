@@ -44,9 +44,11 @@
         {%- assign num_children = children_list | size -%}
         <li id="nav-first" aria-label="{{ node_title }}">
             <div class="nav-item">
-                <img src="https://i.redd.it/qieveg5m49z91.gif" width="70" height="50" viewBox="0 0 448 512">
                 <a href="{{ node_url | prepend: site.baseurl }}" class="nav-list-link nav-lh">
-                    <span>{{ node_title }}</span>
+                    <span>
+                        <img src="https://i.redd.it/qieveg5m49z91.gif" width="70" height="50" viewBox="0 0 448 512">
+                        {{ node_title }}
+                    </span>
                 </a>
                 {%- if num_children > 0 and node_url != "/" -%}
                 <button class="nav-list-expander" aria-label="toggle items in {{ node_title }} category" aria-pressed="false">
