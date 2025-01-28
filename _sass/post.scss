@@ -647,8 +647,8 @@ div.gallery {
 }
 
 div.gallery:hover {
-  box-shadow: 3px 3px 3px 3px #4bad32;
-  
+  outline:4px solid $dark-brown;
+  outline-offset:8px;
 }
 
 div.gallery img {
