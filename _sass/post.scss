@@ -173,6 +173,7 @@ main {
   position:relative;
   overflow-wrap:break-word;
   word-wrap:break-word;
+  background:#fbfffa;
 
   * { margin:auto; }
 
@@ -185,7 +186,6 @@ main {
   h3, .sh3 { font-size:1.125rem; }
 
   p { text-align:justify;
-      background:#fbfffa;
   }
 
   u {
