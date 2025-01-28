@@ -1,6 +1,5 @@
 ---
 title: " "
-thumbnail: "/assets/img/thumbnail/sample.png"
 ---
 Hello, and welcome to the personal portfolio of Kiran Mohammadi-Williams (she/hers). I'm a library professional, and have been working in libraries and museum (GLAM) spaces since 2021. I'm particularly interested in digital humanities, special collections and paper conservation, book history, textile history, medievalisms, classics, and art history. I'm excited and challenged when I have the opportunity to explore the intersections of art and information!
 
