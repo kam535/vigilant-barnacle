@@ -61,14 +61,10 @@
         {% include search.html %}
     </body>
     {% include footer.html %}
-    {% if page_type == "category" %}
-        <script src="{{ '/assets/js/subject.js' | prepend: site.baseurl }}"></script>
-    {% else %}
-        <script src="{{ '/assets/js/post.js' | prepend: site.baseurl }}"></script>
-        <link rel="preload" href="{{ '/assets/css/highlight.min.css' | prepend: site.baseurl }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
-        <noscript><link rel="stylesheet" href="{{ '/assets/css/highlight.min.css' | prepend: site.baseurl }}"></noscript>
-        <script defer src="{{ '/assets/js/highlight.min.js' | prepend: site.baseurl }}"></script>
-    {% endif %}
+    <script src="{{ '/assets/js/post.js' | prepend: site.baseurl }}"></script>
+    <link rel="preload" href="{{ '/assets/css/highlight.min.css' | prepend: site.baseurl }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript><link rel="stylesheet" href="{{ '/assets/css/highlight.min.css' | prepend: site.baseurl }}"></noscript>
+    <script defer src="{{ '/assets/js/highlight.min.js' | prepend: site.baseurl }}"></script>
     <script src="{{ '/assets/js/common.js' | prepend: site.baseurl }}"></script>
     {% include search_event.html %}
 </html>
