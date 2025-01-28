@@ -47,7 +47,7 @@
                 </a>
                 {%- if num_children > 0 and node_url != "/" -%}
                 <button class="nav-list-expander" aria-label="toggle items in {{ node_title }} category" aria-pressed="false">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="400 400 448 512"><path d="M201.4 342.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 274.7 86.6 137.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z"/></svg>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M201.4 342.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 274.7 86.6 137.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z"/></svg>
                 </button>
                 {%- endif -%}
             </div>
@@ -62,12 +62,12 @@
                 <li id="nav-second" aria-label="{{ child_title }}">
                     <div class="nav-item">
                         <a href="{{ child_url | prepend: site.baseurl }}" class="nav-list-link nav-sh">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="400 400 448 512"><path d="M432 256c0 17.7-14.3 32-32 32L48 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l352 0c17.7 0 32 14.3 32 32z"/></svg>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.7-14.3 32-32 32L48 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l352 0c17.7 0 32 14.3 32 32z"/></svg>
                             <span>{{ child_title }}</span>
                         </a>
                         {%- if num_grand_children > 0 -%}
                         <button class="nav-list-expander" aria-label="toggle items in {{ child_title }} category" aria-pressed="false">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="400 400 448 512"><path d="M201.4 342.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 274.7 86.6 137.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z"/></svg>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M201.4 342.6c12.5 12.5 32.8 12.5 45.3 0l160-160c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L224 274.7 86.6 137.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3l160 160z"/></svg>
                         </button>
                         {%- endif -%}
                     </div>
@@ -78,7 +78,7 @@
                             <li id="nav-third" aria-label="{{ grand_child_title }}">
                                 <div class="nav-item">
                                     <a href="{{ grand_child.url | prepend: site.baseurl }}" class="nav-list-link nav-sh">
-                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="400 400 448 512"><path d="M432 256c0 17.7-14.3 32-32 32L48 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l352 0c17.7 0 32 14.3 32 32z"/></svg>
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M432 256c0 17.7-14.3 32-32 32L48 288c-17.7 0-32-14.3-32-32s14.3-32 32-32l352 0c17.7 0 32 14.3 32 32z"/></svg>
                                         <span>{{ grand_child_title }}</span>
                                     </a>
                                 </div>
