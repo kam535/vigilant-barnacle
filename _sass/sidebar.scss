@@ -71,7 +71,7 @@
     transition:.3s;
 
     &:hover {
-      outline:4px solid orange;
+      outline:4px $dark-brown;
       outline-offset:8px;
     }
   }
