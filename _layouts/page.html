@@ -49,8 +49,13 @@
                 <span class="dot" style="background-color: #2ACB45;"></span>
             </div>
             <div class="inner-content">
+               {% include category.html %}
+                {% if page_type == "category" %}
                     {% include loading.html %}
+                    {% include pagination.html %}
+                {% else %}
                     {% include post.html %}
+                {% endif %}
             </div>
         </div>
         {% include search.html %}
