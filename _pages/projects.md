@@ -5,8 +5,8 @@ layout: page
 thumbnail: "/assets/img/thumbnail/sample.png"
 ---
 <div class="div-gallery">
-  <a target="_blank" href="img_5terre.jpg">
-    <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+  <a target="_blank" href="https://kam535.github.io/waxbuilder/">
+    <img src="https://kam535.github.io/vigilant-barnacle/assets/img/waxbuilder.png" alt="Cinque Terre" width="600" height="400">
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
