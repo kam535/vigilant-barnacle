@@ -4,28 +4,30 @@ bookmark: true
 layout: page
 thumbnail: "/assets/img/thumbnail/sample.png"
 ---
-<body class="is-preload">
+<div class="gallery">
+  <a target="_blank" href="img_5terre.jpg">
+    <img src="img_5terre.jpg" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
 
-  <div id="wrapper">
+<div class="gallery">
+  <a target="_blank" href="img_forest.jpg">
+    <img src="img_forest.jpg" alt="Forest" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
 
-  <div id="main">
-    {% for image in site.images %}
-        <article class="thumb">
-          <a href="{{site.baseurl}}/assets/images/fulls/{{ image.path | split: '/' | last | split: '.' | first }}.jpg" class="image">
-            <img src="{{site.baseurl}}/assets/images/thumbs/{{ image.path | split: '/' | last | split: '.' | first }}.jpg" alt="{{ image.title }}" />
-          </a>
-          <h2>{{ image.title }}</h2>
-          <p>{{ image.caption }}</p>
-        </article>
-      {% endfor %}
+<div class="gallery">
+  <a target="_blank" href="img_lights.jpg">
+    <img src="img_lights.jpg" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
 
-  </div>
-
-  <script src="{{ 'assets/js/jquery.min.js' | relative_url }}"></script>
-  <script src="{{ 'assets/js/jquery.poptrox.min.js' | relative_url }}"></script>
-  <script src="{{ 'assets/js/browser.min.js' | relative_url }}"></script>
-  <script src="{{ 'assets/js/breakpoints.min.js' | relative_url }}"></script>
-  <script src="{{ 'assets/js/util.js' | relative_url }}"></script>
-  <script src="{{ 'assets/js/main.js' | relative_url }}"></script>
-
-  </body>
+<div class="gallery">
+  <a target="_blank" href="img_mountains.jpg">
+    <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
