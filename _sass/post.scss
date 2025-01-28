@@ -174,20 +174,19 @@ main {
   overflow-wrap:break-word;
   word-wrap:break-word;
   color:#fbfffa;
+  background:#fbfffa;
 
   * { margin:auto; }
 
   h1, h2, h3 {
     margin-top:3rem;
     margin-bottom:1rem;
-    background:#fbfffa;
   }
   h1, .sh1 { font-size:1.75rem; }
   h2, .sh2 { font-size:1.375rem; }
   h3, .sh3 { font-size:1.125rem; }
 
   p { text-align:justify;
-    background:#fbfffa;
   }
 
   u {
