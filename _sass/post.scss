@@ -202,11 +202,11 @@ main {
     &::before {
       position:absolute;
       content:attr(data-content);
-      color:midnightblue;
+      color:#011208;
       text-decoration:underline;
       text-decoration-style:wavy;
       text-underline-offset:4px;
-      text-decoration-color:midnightblue;
+      text-decoration-color:#011208;
       clip-path:polygon(0 0, 0 0, 0% 100%, 0 100%);
       transition:clip-path .25s;
     }
@@ -262,7 +262,7 @@ main {
         width:2rem;
         height:2rem;
         font-size:1.125rem;
-        color:#777;
+        color:#011208;
         padding:4px;
         background-color:#ddd;
         border-radius:4px;
@@ -451,7 +451,7 @@ main {
 
   .title {
     display:-webkit-box;
-    color:$color-darkbrown;
+    color:#011208;
     font-size:1.125rem;
     font-weight:600;
     height:2.5em;
