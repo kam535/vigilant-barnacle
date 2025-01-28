@@ -3,24 +3,24 @@
   margin:auto;
 }
 
-.div.gallery {
+.div-gallery {
   margin: 5px;
   float: left;
   width: 180px;
   border: 1px solid transparent;
 }
 
-.div.gallery:hover {
+.div-gallery:hover {
   outline:4px solid $dark-brown;
   outline-offset:8px;
 }
 
-.div.gallery img {
+.div-gallery img {
   width: 100%;
   height: auto;
 }
 
-.div.desc {
+.div-desc {
   padding: 15px;
   text-align: center;
 }
