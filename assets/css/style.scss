@@ -8,13 +8,13 @@ html, body {
 }
 
 .fonts-loaded {
-  a, span, p { font-family:'Space Grotesk', 'Inria Sans', sans-serif; }
+  a, span, p, ul { font-family:'Space Grotesk', 'Inria Sans', sans-serif; }
   h1, h2, h3 { font-family:'Caveat', Helvetica, sans-serif; }
   mark { font-family:'Caveat', sans-serif; }
 }
 
 a { text-decoration:none; }
-a, span, p, h1, h2, h3, i { color:#06120b; }
+a, span, p, ul, u, h1, h2, h3, i { color:#06120b; }
 a, span, p { font-family:'Inria Sans', sans-serif; }
 h1, h2, h3, mark {
   margin:0;
