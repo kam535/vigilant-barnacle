@@ -4,6 +4,12 @@
 }
 
 .div-gallery {
+  display: flex;
+  flex-wrap: nowrap;
+  background: transparent;
+}
+
+.div-item {
   margin: 5px;
   float: left;
   width: 180px;
@@ -21,12 +27,12 @@
   font-size: 20%;
   }
 
-.div-gallery:hover {
+.div-item:hover {
   border: 4px solid $color-rose;
   border-radius: 10px;
 }
 
-.div-gallery img {
+.div-item img {
   width: 100%;
   height: auto;
   text-align:center;
