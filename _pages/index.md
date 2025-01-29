@@ -1,15 +1,7 @@
 ---
 title: "Kiran Mohammadi-Williams"
-thumbnail: "https://kam535.github.io/vigilant-barnacle/assets/img/banner.png"
 ---
-
-<script>
-<style>
-  .transbox {
-    font-family: "Caveat", sans-serif;
-    background: transparent;
-</style>
-</script>
+<img src="https://kam535.github.io/vigilant-barnacle/assets/img/banner.png">
 
 Librarian • Book lover • Viridiphile
 <hr>
