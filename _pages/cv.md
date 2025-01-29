@@ -5,7 +5,7 @@ bookmark: true
 ---
 # Kiran A. Mohammadi-Williams
 <hr>
-Librarian • Biliophile • kyran.a.williams@gmail.com <br>
+Librarian • kyran.a.williams@gmail.com <br>
 
 <style>
 .container {
