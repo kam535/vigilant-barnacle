@@ -4,18 +4,21 @@ bookmark: true
 layout: page
 thumbnail: "/assets/img/thumbnail/sample.png"
 ---
+# Projects
 <div class="div-gallery">
   <a target="_blank" href="https://kam535.github.io/waxbuilder/">
-    <img src="https://kam535.github.io/vigilant-barnacle/assets/img/waxbuilder.png" alt="Cinque Terre" width="600" height="400">
+    <img src="https://kam535.github.io/vigilant-barnacle/assets/img/waxbuilder.png" alt="WaxBuilder screenshot" width="600" height="400">
   </a>
+  <div class="desc"> **WaxBuilder** </div>
   <div class="desc">An open-source exhibit tool built on the shell of Wax, a minimal, static site-builder for digital collections.</div>
 </div>
 
 <div class="div-gallery">
-  <a target="_blank" href="img_forest.jpg">
-    <img src="img_forest.jpg" alt="Forest" width="600" height="400">
+  <a target="_blank" href="https://kam535.github.io/wax-documentation/">
+    <img src="img_forest.jpg" alt="Wax Docs + screenshot" width="600" height="400">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">Wax Docs +</div>
+  <div class="desc">Extended, clearer documentation for the static-site exhibit tool Wax, geared towards folks with less technical know-how.</div>
 </div>
 
 <div class="div-gallery">
