@@ -2,7 +2,7 @@
 title: " "
 ---
 <style>
-  welcome-div {
+  .welcome-div {
     text-align:center;
     margin-right: 35%;
     margin-left:35%;
