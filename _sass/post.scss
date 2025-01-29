@@ -68,13 +68,14 @@
 }
 
 .thumbnail {
-  display:block;
+  display:flex;
   position:relative;
   width:100%;
   aspect-ratio:2;
   margin:auto;
   background-size:contain;
   background-position:center center;
+  object-fit: contain;
 }
 
 .transbox {
