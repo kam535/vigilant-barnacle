@@ -6,7 +6,7 @@ thumbnail: "/assets/img/thumbnail/sample.png"
 ---
 ## Projects
 <hr>
-
+<div>
 <div class="div-gallery">
   <a target="_blank" href="https://kam535.github.io/waxbuilder/">
     <img src="https://kam535.github.io/vigilant-barnacle/assets/img/waxbuilder.png" alt="WaxBuilder screenshot" width="600" height="400">
@@ -36,7 +36,7 @@ thumbnail: "/assets/img/thumbnail/sample.png"
   </a>
   <div class="desc">Add a description of the image here</div>
 </div>
-
+</div>
 <br>
 
 ## Publications
