@@ -7,7 +7,7 @@ bookmark: true
 
 ## Kiran A. Mohammadi-Williams
 <hr>
-Collections as Data Librarian, Cornell University • kyran.a.williams@gmail.com
+Collections as Data Librarian, Cornell University • kyran.a.williams@gmail.com <br>
 <a href="href="https://www.robots.ox.ac.uk/~vgg/software/">
   <button class="button">View and/or download my full CV here</button>
 
