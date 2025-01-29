@@ -5,8 +5,9 @@ thumbnail: "https://kam535.github.io/vigilant-barnacle/assets/img/banner.png"
 
 <script>
 <style>
-  .title {
+  .transbox {
     font-family: "Caveat", sans-serif;
+    background: transparent;
 </style>
 </script>
 
