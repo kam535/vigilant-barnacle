@@ -5,7 +5,7 @@ title: " "
   <style>
     .h1 {
       text-align: center;
-    },
+    }
   
     .p {
       text-align: center;
