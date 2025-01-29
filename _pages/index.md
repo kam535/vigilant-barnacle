@@ -10,8 +10,10 @@ title: " "
 </style>
 
 <div class="welcome-div">
-Kiran Mohammadi-Williams
+  
+# Kiran Mohammadi-Williams
 Librarian • Book lover • Viridiphile
+
 </div>
 
 <img src="https://kam535.github.io/vigilant-barnacle/assets/img/banner.png">
