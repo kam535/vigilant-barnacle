@@ -9,7 +9,7 @@ title: " "
     text-align: center;
   }
 </style>
-<h1>Kiran Mohammadi-Williams<h1>
+<h1>Kiran Mohammadi-Williams</h1>
 <p>Librarian • Book lover • Viridiphile</p>
 <img src="https://kam535.github.io/vigilant-barnacle/assets/img/banner.png">
 <hr>
