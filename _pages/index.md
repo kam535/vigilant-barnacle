@@ -1,4 +1,5 @@
 ---
+title: " "
 ---
 <img src="https://kam535.github.io/vigilant-barnacle/assets/img/banner.png" alt="a green sweater, a green bookstack, a green laptop, and Litzlberg am Attersee by Gustav Klimt in a gold frame">
 
