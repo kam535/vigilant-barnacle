@@ -5,7 +5,7 @@ bookmark: true
 ---
 # Kiran A. Mohammadi-Williams
 <hr>
-Collections as Data Librarian, Cornell University • kyran.a.williams@gmail.com <br>
+Librarian • Biliophile • kyran.a.williams@gmail.com <br>
 
 <style>
 .container {
