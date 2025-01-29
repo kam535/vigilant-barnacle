@@ -1,11 +1,9 @@
 ---
-title: "Curriculum Vitae"
+title: "Abridged Curriculum Vitae"
 thumbnail: "/assets/img/thumbnail/sample.png"
 bookmark: true
 ---
-# Abridged Curriculum Vitae
-
-## Kiran A. Mohammadi-Williams
+# Kiran A. Mohammadi-Williams
 <hr>
 Collections as Data Librarian, Cornell University • kyran.a.williams@gmail.com <br>
 <a href="https://www.robots.ox.ac.uk/~vgg/software/">
