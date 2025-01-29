@@ -9,7 +9,7 @@ thumbnail: "/assets/img/thumbnail/sample.png"
   <a target="_blank" href="https://kam535.github.io/waxbuilder/">
     <img src="https://kam535.github.io/vigilant-barnacle/assets/img/waxbuilder.png" alt="WaxBuilder screenshot" width="600" height="400">
   </a>
-  <div class="desc"> WaxBuilder </div>
+  <div class="div-title"> WaxBuilder </div>
   <div class="desc">An open-source exhibit tool built on the shell of Wax, a minimal, static site-builder for digital collections.</div>
 </div>
 
@@ -17,7 +17,7 @@ thumbnail: "/assets/img/thumbnail/sample.png"
   <a target="_blank" href="https://kam535.github.io/wax-documentation/">
     <img src="img_forest.jpg" alt="Wax Docs + screenshot" width="600" height="400">
   </a>
-  <div class="desc">Wax Docs +</div>
+  <div class="div-title">Wax Docs +</div>
   <div class="desc">Extended, clearer documentation for the static-site exhibit tool Wax, geared towards folks with less technical know-how.</div>
 </div>
 
