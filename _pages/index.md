@@ -1,7 +1,6 @@
 ---
 title: " "
 ---
-<html>
 <style>
   welcome-div {
     text-align:center;
@@ -9,11 +8,9 @@ title: " "
     margin-left:35%;
     }
 </style>
-</html>
 
 <div class="welcome-div">
-  
-# Kiran Mohammadi-Williams
+Kiran Mohammadi-Williams
 Librarian • Book lover • Viridiphile
 </div>
 
