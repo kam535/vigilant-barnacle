@@ -6,12 +6,7 @@ bookmark: true
 # Kiran A. Mohammadi-Williams
 <hr>
 Collections as Data Librarian, Cornell University
-<br>
 kyran.a.williams@gmail.com
-<br>
-<br>
-<br>
-<br>
 
 ## Education
 * **Master's of Science in Library & Information Science** <br>
