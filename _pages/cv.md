@@ -3,9 +3,13 @@ title: "Curriculum Vitae"
 thumbnail: "/assets/img/thumbnail/sample.png"
 bookmark: true
 ---
-# Kiran A. Mohammadi-Williams
+# Abridged Curriculum Vitae
+
+## Kiran A. Mohammadi-Williams
 <hr>
 Collections as Data Librarian, Cornell University • kyran.a.williams@gmail.com
+<a href="href="https://www.robots.ox.ac.uk/~vgg/software/">
+  <button class="button">View and/or download my full CV here</button>
 
 ## Education
 <hr>
@@ -15,13 +19,15 @@ University of Illinois at Urbana-Champaign • 2023
 * **Bachelor's of Arts in Art History and Classical Civilization**
 Oberlin College • 2019-2022 • Minors in Book Studies and Greek Language & Literature
 
-
-## Additional Coursework
+## Languages
 <hr>
 
-* **Latin Palaeography**
-University of Warwick • Remote • 10/24-12/24
-
+* **English**, native proficiency
+* **German**, professional working proficiency
+* **Latin**, intermediate reading proficiency
+* **Ancient Greek**, intermediate reading proficiency
+* **Modern Standard Arabic**, novice reading proficiency
+  
 ## Select Work Experience
 <hr>
 
@@ -46,36 +52,48 @@ Cleveland Museum of Art • Cleveland, OH • 09/2021-10/2022
 * **Circulation Desk Attendant** 
 Oberlin College • Oberlin, OH • 05/2021-12/2022
 
-
-## Projects
-* **Exploring the Domestic Enslaved: Pompeii** 
-Oberlin College • 09/2022-present 
-A public-oriented, plain language Google Site highlighting research on the archaeological and artistic evidence for the presence of enslaved indidviuals in the domus, shop, and villa in Pompeii and Herculaneum
-* **Wilson Bruce Evans Historical Home Society Photographs** 
-Oberlin College • 09/2022-12/2022
-In collaboration with the Visual Resources Curator (my supervisor), the College Archivist, and the Wilson Bruce Evans Home Historical Society, I digitized and catalogued this collection of 19th-century photographs and ephemera and designed a public-facing Omeka site to host the collection digitally.
-* **Digital Resource Management Project** 
-Oberlin College • 01/2022-02/2022 
-Under the reference librarians of the College, I assessed the link quality for the college libraries' e-resources in Summon and 360 Link and conducted a literature review on effective linking methodologies to improve database accessibility.
-* **ExCo 202: The Corest Conundrum** 
-Oberlin College • 09/2020-12/2020 
-I taught a for-credit course remotely during the COVID-19 pandemic, focusing on Victorian fashion and textiles. I created a 13-week syllabus, graded projects, and gave weekly in-class lectures.
+## Select Volunteer Experience
 <hr>
 
-## Publications
-* **Race and the Medieval Consciousness: Perspectives on St. Maurice** 
-*On Second Thought* • Oberlin College, History Department • Oberlin, OH • Fall 2022 
-* **Distinctions of Greco-Roman Staffs, Rods, and Wands in Ritual and Myth** 
-*The Richard Macksey Undergraduate Research Journal* • Johns Hopkins University • Baltimore, MD • 09/2021 
+* **FriendShop Volunteer**
+Champaign Public Library • Champaign, IL • 01/2023-05/2023
+* **Acquisitions Chair - Friends of the Oberlin College Libraries**
+Oberlin College • Oberlin, OH • 02/2023-04/2024
+* **Seasonal Events Volunteer**
+Oberlin Heritage Center • Oberlin, OH • 05/2021-12/2022
+* **Publicity Chair - Board of the Friends of the Oberlin Public Library**
+Oberlin Public Library • Oberlin, OH • 11/2021-12/2022
 
-## Conferences & Symposia
-* **Using IIIF as a One-Stop Shop for Basic Web Literacy** 
-* *2024 International Image Interoperability Framework Online Meeting* • Virtual • 11/2024 
-* **Distinctions of Greco-ROman Staffs, Rods, and Wands in Ritual and Myth** 
-*Johns Hopkins Undergraduate Research Symposium* • Johns Hopkins University • 09/2021 
+## Professional Organisations
+<hr>
 
-## Volunteer Experience
+* **American Library Association**
+* **Black Caucus of the American Library Association**
+* **Association of College & Research Libraries**
+  * University Libraries Section
+  * Rare Books and Manuscripts Section
+  * Arts Section
+  * European Studies Section
+* **Friends of the Oberlin College Libraries**
+* **International Center of Medieval Art**
+* **Medievalists of Color**
+* **Mountaintop Coalition**
+* **Research Data Alliance**
+* **we here**
 
+## Awards & Scholarships
+<hr>
 
+* **Newberry Library Center for Renaissance Studies Consortium Grant**
+* **Victoria Proctor Powell Florence Scholarship**
+* **Carl Dipman Alumni Fellowship**
+* **Katherine L. Sharp Scholarship**
+* **Norma D. Swearingen Memorial Prize**
+* **Friends of the Libraries Research Award**
+* **Metcalf Honor**
+* **Laurine Mack Bongiorno Prize**
+* **Excellence in First-Year Greek Book Prize**
+* **John F. Oberlin Scholarship**
+<button class="button" 
 
 
