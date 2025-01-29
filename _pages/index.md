@@ -2,10 +2,13 @@
 title: "Kiran Mohammadi-Williams"
 thumbnail: "https://kam535.github.io/vigilant-barnacle/assets/img/banner.png"
 ---
+
+<script>
 <style>
   .title {
     font-family: "Caveat", sans-serif;
 </style>
+</script>
 
 Librarian • Book lover • Viridiphile
 <hr>
