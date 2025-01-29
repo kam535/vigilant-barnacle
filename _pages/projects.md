@@ -31,14 +31,5 @@ thumbnail: "/assets/img/thumbnail/sample.png"
   <div class="desc">An online exhibit of the maps digitized and made IIIF compatible for the Cornell undergraduate course HIST 2391.</div>
 </div>
 
-<div class="div-gallery">
-  <a target="_blank" href="img_mountains.jpg">
-    <img src="img_mountains.jpg" alt="Mountains" width="600" height="400">
-  </a>
-  <div class="desc">Add a description of the image here</div>
-</div>
-</div>
-<br>
-
 ## Publications
 <hr>
