@@ -8,15 +8,17 @@
   float: left;
   width: 180px;
   border: 1px solid transparent;
-  font-family:'Caveat', sans-serif;
+  font-family:'Space Grotesk', sans-serif;
   text-align:center;
+  display: flex;
 }
 
 .div-title {
-  padding: 15px;
+  padding: 5px;
   text-align:center;
-  font-family:'Space Grotesk', sans-serif;
+  font-family:'Caveat, sans-serif;
   font-weight: bold;
+  font-size: 20%;
   }
 
 .div-gallery:hover {
@@ -31,9 +33,10 @@
 }
 
 .div-desc {
-  padding: 15px;
+  padding: 5px;
   text-align:center;
   font-family:'Space Grotesk', sans-serif;
+  font-size: 10%;
 }
 
 .inner-header {
