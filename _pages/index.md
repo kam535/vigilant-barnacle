@@ -1,17 +1,11 @@
 ---
 title: "Kiran Mohammadi-Williams"
 ---
-<script>
-  <style>
-    h1 {
-      text-align: center;
-    }
-  
+<style>
     p {
       text-align: center;
     }
-  </style>
-</script>
+</style>
 
 <h1>Kiran Mohammadi-Williams</h1>
 <p>Librarian • Book lover • Viridiphile</p>
