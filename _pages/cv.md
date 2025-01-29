@@ -42,7 +42,7 @@ Collections as Data Librarian, Cornell University • kyran.a.williams@gmail.com
 
 <div class="container">
   <img src="https://i.redd.it/qieveg5m49z91.gif" alt="Snow" style="width:100%">
-  <a href="https://www.robots.ox.ac.uk/~vgg/software/">
+  <a href="https:/kam535.github.io/vigilant-barnacle/assets/MohammadiWilliams_Kiran_CV.pdf">
     <button class="btn">View and/or download my full CV here</button>
   </a>
 </div>
