@@ -9,7 +9,15 @@
   width: 180px;
   border: 1px solid transparent;
   font-family:'Caveat', sans-serif;
+  text-align:center;
 }
+
+.div-title {
+  padding: 15px;
+  text-align:center;
+  font-family:'Space Grotesk', sans-serif;
+  font-weight: bold;
+  }
 
 .div-gallery:hover {
   border: 4px solid $color-rose;
@@ -19,6 +27,7 @@
 .div-gallery img {
   width: 100%;
   height: auto;
+  text-align:center;
 }
 
 .div-desc {
