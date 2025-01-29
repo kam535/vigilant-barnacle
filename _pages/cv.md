@@ -6,8 +6,45 @@ bookmark: true
 # Kiran A. Mohammadi-Williams
 <hr>
 Collections as Data Librarian, Cornell University • kyran.a.williams@gmail.com <br>
-<a href="https://www.robots.ox.ac.uk/~vgg/software/">
-  <button class="button">View and/or download my full CV here</button>
+<style>
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+}
+
+.container img {
+  width: 100%;
+  height: auto;
+}
+
+.container .btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.container .btn:hover {
+  background-color: black;
+}
+</style>
+
+<div class="container">
+  <img src="img_snow.jpg" alt="Snow" style="width:100%">
+  <a href="https://www.robots.ox.ac.uk/~vgg/software/">
+    <button class="btn">View and/or download my full CV here</button>
+  </a>
+</div>
 
 ## Education
 <hr>
