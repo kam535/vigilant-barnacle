@@ -25,17 +25,15 @@
   text-align: center;
 }
 
-.button {
-  background-color: $color-rose;
-  border-radius: 10px;
+.post-button {
+  background:url(https://i.redd.it/qieveg5m49z91.gif);
   border: none;
-  color: white;
   padding: 15px 32px;
   text-align: center;
-  text-decoration: none;
   display: inline-block;
-  font-size: 16px;
   margin: 4px 2px;
+  width: 100px;
+  height: 100px;
   cursor: pointer;
 }
 
