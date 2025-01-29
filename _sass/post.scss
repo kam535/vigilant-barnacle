@@ -63,8 +63,7 @@
   margin:auto;
   background-size:contain;
   background-position:center center;
-  object-fit: contain;
-  background-repeat: no-repeat;
+  background-repeat:no-repeat;
 }
 
 .transbox {
@@ -79,6 +78,7 @@
   padding:1rem 0;
   text-align:center;
   background-color:rgba(255, 255, 255, 0.5);
+  background-repeat: no-repeat;
 }
 
 .post-title {
