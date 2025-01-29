@@ -130,6 +130,5 @@ Oberlin Public Library • Oberlin, OH • 11/2021-12/2022
 * **Laurine Mack Bongiorno Prize**
 * **Excellence in First-Year Greek Book Prize**
 * **John F. Oberlin Scholarship**
-<button class="button" 
 
 
