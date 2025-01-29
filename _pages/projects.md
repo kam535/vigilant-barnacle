@@ -9,7 +9,7 @@ thumbnail: "/assets/img/thumbnail/sample.png"
   <a target="_blank" href="https://kam535.github.io/waxbuilder/">
     <img src="https://kam535.github.io/vigilant-barnacle/assets/img/waxbuilder.png" alt="WaxBuilder screenshot" width="600" height="400">
   </a>
-  <div class="desc"> **WaxBuilder** </div>
+  <div class="desc"> WaxBuilder </div>
   <div class="desc">An open-source exhibit tool built on the shell of Wax, a minimal, static site-builder for digital collections.</div>
 </div>
 
