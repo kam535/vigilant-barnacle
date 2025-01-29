@@ -25,7 +25,7 @@ Collections as Data Librarian, Cornell University • kyran.a.williams@gmail.com
   left: 50%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
-  background-color: #555;
+  background-color:#9BD942;
   color: white;
   font-size: 16px;
   padding: 12px 24px;
