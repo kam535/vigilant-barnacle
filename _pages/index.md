@@ -1,5 +1,5 @@
 ---
-title: "Kiran Mohammadi-Williams"
+title: " "
 ---
 <style>
     p {
