@@ -4,9 +4,10 @@ bookmark: true
 layout: page
 thumbnail: "/assets/img/thumbnail/sample.png"
 ---
+
 ## Projects
 <hr>
-<div>
+
 <div class="div-gallery">
   <a target="_blank" href="https://kam535.github.io/waxbuilder/">
     <img src="https://kam535.github.io/vigilant-barnacle/assets/img/waxbuilder.png" alt="WaxBuilder screenshot" width="600" height="400">
