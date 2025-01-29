@@ -1,14 +1,18 @@
 ---
 title: " "
 ---
-<style>
-  .h1 {
-    text-align: center;
-  }
-  .p {
-    text-align: center;
-  }
-</style>
+<script>
+  <style>
+    .h1 {
+      text-align: center;
+    },
+  
+    .p {
+      text-align: center;
+    }
+  </style>
+</script>
+
 <h1>Kiran Mohammadi-Williams</h1>
 <p>Librarian • Book lover • Viridiphile</p>
 <img src="https://kam535.github.io/vigilant-barnacle/assets/img/banner.png">
