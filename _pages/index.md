@@ -1,6 +1,10 @@
 ---
 title: " "
 ---
+# Kiran Mohammadi-Williams
+Librarian • Book lover • Viridiphile
+<hr>
+
 Hello, and welcome to the personal portfolio of Kiran Mohammadi-Williams (she/hers). I'm a library professional, and have been working in libraries and museum (GLAM) spaces since 2021. I'm particularly interested in digital humanities, special collections and paper conservation, book history, textile history, medievalisms, classics, and art history. I'm excited and challenged when I have the opportunity to explore the intersections of art and information!
 
 My goal is to make academia and the material objects that support it more accessible to people of colour (BIPOC) wherever I go. I'm passionate about critical pedagogy, a Both/And approach to teaching and research, public-facing scholarship, and forming community partnerships in academic spaces.
