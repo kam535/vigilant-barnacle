@@ -1,6 +1,12 @@
 ---
 title: " "
 ---
+<style>
+  welcome-div {
+    text-align:center;
+    margin-right: 35%;
+    margin-left:35%;
+</style>
 # Kiran Mohammadi-Williams
 Librarian • Book lover • Viridiphile
 <img src="https://kam535.github.io/vigilant-barnacle/assets/img/banner.png">
