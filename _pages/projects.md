@@ -40,7 +40,6 @@ thumbnail: "/assets/img/thumbnail/sample.png"
       </a>
     <div class="div-title">Exploring the Domestic Enslaved: Pompeii</div>
     <div class="div-desc">A public history-oriented Google Site, centred on the archaeological and artistic evidence of the presence of enslaved individuals in shops, houses, and villas in Pompeii and Herculaneum.</div>
-  </div>
 </div>
 
 ## Publications
