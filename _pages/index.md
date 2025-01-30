@@ -1,6 +1,12 @@
 ---
 title: " "
 ---
+<style>
+  .welcome-div {
+  font-family:'Caveat', sans-serif;
+  text-align:center;
+}
+</style>
 <div class="welcome-div">
   
 # Kiran Mohammadi-Williams
