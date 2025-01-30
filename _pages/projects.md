@@ -7,8 +7,15 @@ thumbnail: "/assets/img/thumbnail/sample.png"
 
 ## Projects
 <hr>
-
 <div class="div-gallery">
+<div class="div-item">
+      <a target="_blank" href="https://kam535.github.io/waxbuilder/">
+        <img src="https://kam535.github.io/vigilant-barnacle/assets/img/waxbuilder.png" alt="WaxBuilder screenshot" width="600" height="400">
+      </a>
+    <div class="div-title"> WaxBuilder </div>
+    <div class="div-desc">An open-source exhibit tool built on the shell of Wax, a minimal, static site-builder for digital collections.</div>
+  </div>
+
   <div class="div-item">
       <a target="_blank" href="https://kam535.github.io/wax-documentation/">
         <img src="https://kam535.github.io/vigilant-barnacle/assets/img/wax-docs.png" alt="Wax Docs + screenshot" width="600" height="400">
@@ -33,14 +40,6 @@ thumbnail: "/assets/img/thumbnail/sample.png"
     <div class="div-title">Exploring the Domestic Enslaved: Pompeii</div>
     <div class="div-desc">A public history-oriented Google Site, centred on the archaeological and artistic evidence of the presence of enslaved individuals in shops, houses, and villas in Pompeii and Herculaneum.</div>
 </div>
-
-  <div class="div-item">
-      <a target="_blank" href="https://kam535.github.io/waxbuilder/">
-        <img src="https://kam535.github.io/vigilant-barnacle/assets/img/waxbuilder.png" alt="WaxBuilder screenshot" width="600" height="400">
-      </a>
-    <div class="div-title"> WaxBuilder </div>
-    <div class="div-desc">An open-source exhibit tool built on the shell of Wax, a minimal, static site-builder for digital collections.</div>
-  </div>
 </div>
   
 
@@ -57,7 +56,7 @@ thumbnail: "/assets/img/thumbnail/sample.png"
   </div>
 
   <div class="div-item">
-      <a target="_blank" href="https://oberlinost.org/2023/03/02/race-and-the-medieval-consciousness-perspectives-on-st-maurice/">
+      <a target="_blank" href="https://oberlinost.wordpress.com/2023/03/02/race-and-the-medieval-consciousness-perspectives-on-st-maurice/#:~:text=Maurice%3A%20he%20appeared%20in%20the,accepted%20by%20medieval%20Christians%20for">
         <img src="https://cdn.shopify.com/s/files/1/0296/7067/0384/t/47/assets/800px-magdeburger_dom_cathedral_47619280472-1681309981396.jpg?v=1681309982" alt="Wax Docs + screenshot" width="600" height="400">
       </a>
     <div class="div-title">Race and the Medieval Consciousness: Perspectives on St. Maurice</div>
