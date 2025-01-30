@@ -42,6 +42,15 @@ thumbnail: "/assets/img/thumbnail/sample.png"
     <div class="div-desc">A public history-oriented Google Site, centred on the archaeological and artistic evidence of the presence of enslaved individuals in shops, houses, and villas in Pompeii and Herculaneum.</div>
 </div>
 
+<div class="div-gallery">
+  <div class="div-item">
+      <a target="_blank" href="https://kam535.github.io/waxbuilder/">
+        <img src="https://kam535.github.io/vigilant-barnacle/assets/img/waxbuilder.png" alt="WaxBuilder screenshot" width="600" height="400">
+      </a>
+    <div class="div-title"> WaxBuilder </div>
+    <div class="div-desc">An open-source exhibit tool built on the shell of Wax, a minimal, static site-builder for digital collections.</div>
+  </div>
+
 ## Publications
 <hr>
 <div class="div-gallery">
