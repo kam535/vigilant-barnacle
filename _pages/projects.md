@@ -34,5 +34,38 @@ thumbnail: "/assets/img/thumbnail/sample.png"
   </div>
 </div>
 
+<div class="div-item">
+      <a target="_blank" href="https://sites.google.com/oberlin.edu/domestic-slavery-pompeii/home">
+        <img src="https://kam535.github.io/vigilant-barnacle/assets/img/hist2391-site.png" alt="Google Site screenshot" width="600" height="400">
+      </a>
+    <div class="div-title">Exploring the Domestic Enslaved: Pompeii</div>
+    <div class="div-desc">A public history-oriented Google Site, centred on the archaeological and artistic evidence of the presence of enslaved individuals in shops, houses, and villas in Pompeii and Herculaneum.</div>
+  </div>
+</div>
+
 ## Publications
 <hr>
+<div class="div-gallery">
+  <div class="div-item">
+      <a target="_blank" href="https://blog.library.si.edu/blog/2023/09/06/processing-personalities-ephemera-research-at-the-aa-pg-library/">
+        <img src="https://blog.library.si.edu/wp-content/uploads/2023/08/Williams-2-1.jpg" alt="Cover of a 19th century pamphlet with cameo of woman surrounded by grapes and vines" width="600" height="400">
+      </a>
+    <div class="div-title"> Processing Personalities: Ephemera Research at the AA/PG Library </div>
+    <div class="div-desc">Smithsonian Libraries and Archives Unbound, 09/06/2023</div>
+  </div>
+
+  <div class="div-item">
+      <a target="_blank" href="https://kam535.github.io/wax-documentation/">
+        <img src="https://kam535.github.io/vigilant-barnacle/assets/img/wax-docs.png" alt="Wax Docs + screenshot" width="600" height="400">
+      </a>
+    <div class="div-title">Wax Docs +</div>
+    <div class="div-desc">Extended, clearer documentation for the static-site exhibit tool Wax, geared towards folks with less technical know-how.</div>
+  </div>
+
+  <div class="div-item">
+      <a target="_blank" href="https://cornell-colab.github.io/hist2391/">
+        <img src="https://kam535.github.io/vigilant-barnacle/assets/img/hist2391-site.png" alt="HIST2931 site screenshot" width="600" height="400">
+      </a>
+    <div class="div-title">From Terra Incognita to Territories of Nation-States Digitized Maps Collection</div>
+    <div class="div-desc">An online exhibit of the maps digitized and made IIIF compatible for the Cornell undergraduate course HIST 2391.</div>
+  </div>
