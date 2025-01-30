@@ -42,7 +42,7 @@ Librarian • kyran.a.williams@gmail.com <br>
 
 <div class="container">
   <img src="https://i.redd.it/qieveg5m49z91.gif" alt="Snow" style="width:100%">
-  <a href="https:/vigilant-barnacle/assets/cv.pdf">
+  <a href="/assets/cv.pdf">
     <button class="btn">View and/or download my full CV here</button>
   </a>
 </div>
