@@ -8,15 +8,6 @@ thumbnail: "/assets/img/thumbnail/sample.png"
 ## Projects
 <hr>
 
-<div class="div-gallery">
-  <div class="div-item">
-      <a target="_blank" href="https://kam535.github.io/waxbuilder/">
-        <img src="https://kam535.github.io/vigilant-barnacle/assets/img/waxbuilder.png" alt="WaxBuilder screenshot" width="600" height="400">
-      </a>
-    <div class="div-title"> WaxBuilder </div>
-    <div class="div-desc">An open-source exhibit tool built on the shell of Wax, a minimal, static site-builder for digital collections.</div>
-  </div>
-
   <div class="div-item">
       <a target="_blank" href="https://kam535.github.io/wax-documentation/">
         <img src="https://kam535.github.io/vigilant-barnacle/assets/img/wax-docs.png" alt="Wax Docs + screenshot" width="600" height="400">
@@ -50,9 +41,11 @@ thumbnail: "/assets/img/thumbnail/sample.png"
     <div class="div-title"> WaxBuilder </div>
     <div class="div-desc">An open-source exhibit tool built on the shell of Wax, a minimal, static site-builder for digital collections.</div>
   </div>
+  
 
 ## Publications
 <hr>
+
 <div class="div-gallery">
   <div class="div-item">
       <a target="_blank" href="https://blog.library.si.edu/blog/2023/09/06/processing-personalities-ephemera-research-at-the-aa-pg-library/">
