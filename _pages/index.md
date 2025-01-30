@@ -1,14 +1,6 @@
 ---
 title: " "
 ---
-<style>
-  .welcome-div {
-    text-align:center;
-    margin-right: 35%;
-    margin-left:35%;
-    }
-</style>
-
 <div class="welcome-div">
   
 Kiran Mohammadi-Williams
