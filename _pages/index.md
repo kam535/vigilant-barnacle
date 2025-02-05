@@ -22,4 +22,4 @@ My goal is to make academia and the material objects that support it more access
 
 I'm an avid knitter, embroiderer, reader, and cat parent to a six-year-old Torbie named Camilla, who hates all other cats. I'm also a proud hijabi and a native and ardent New Jerseyan. You won't find any photos of me on this page, since I like to protect my modesty, but feel free to imagine the crotchety old cat lady of your dreams and you're probably close.
 
-This site was created using a heavily modified version of <a href="https://github.com/byanko55/jekyll-theme-satellite">byanko55's jekyll-theme-satellite</a>.
+This site was created using a modified version of <a href="https://github.com/byanko55/jekyll-theme-satellite">byanko55's jekyll-theme-satellite</a>.
