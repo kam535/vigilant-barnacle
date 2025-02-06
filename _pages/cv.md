@@ -5,7 +5,8 @@ bookmark: true
 ---
 # Kiran A. Mohammadi-Williams
 <hr>
-Librarian • kyran.a.williams@gmail.com <br>
+
+**work:** kam535@cornell.edu • **personal:** kyran.a.williams@gmail.com
 
 <style>
 .container {
