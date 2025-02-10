@@ -10,7 +10,7 @@ title: " "
 <div class="welcome-div">
   
 <h1>Kiran Mohammadi-Williams</h1>
-Librarian • Medievalist • Book lover • Viridiphile • 
+Librarian • Medievalist • Book lover • Viridiphile
 
 </div>
 
