@@ -7,6 +7,8 @@ profile_img: "/assets/img/profile_pic.png"
 email: kyran.a.williams@gmail.com
 github_username: kam535
 
+open_external_links_in_new_tab: true
+use_html_extension:  false
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /myblog
@@ -19,8 +21,15 @@ plugins:
   - jekyll-seo-tag
   - jekyll-loading-lazy
 
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+include:
+  - _pages
 exclude:
   - docs/
+  - _includes/notes_graph.json
 
 collections:
   pages:
@@ -28,13 +37,14 @@ collections:
     permalink: /:path.html
 
 defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
+  - scope:
+      path: "**/*"
     values:
-      layout: "page"
-      date: "1900-01-01"
+      layout: "default"
+  - scope:
+      path: "_notes/**/*.md"
+    values:
+      layout: "garden_note"
 
 # Markdown newline activator 
 kramdown:
