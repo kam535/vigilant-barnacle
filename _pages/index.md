@@ -1,5 +1,6 @@
 ---
 title: " "
+layout: page
 ---
 <style>
   .welcome-div {
