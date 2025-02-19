@@ -20,6 +20,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-loading-lazy
+  - jekyll-last-modified-at
 
 sass:
   sass_dir:          _sass
