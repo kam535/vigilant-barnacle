@@ -9,16 +9,9 @@
         <link rel="stylesheet" href="{{ '/assets/css/style.css' | prepend: site.baseurl }}">
             {% if page.thumbnail %}
                 <style>
-                    {%- assign check_localasset = page.thumbnail | split:'/' -%}
-                    {% if check_localasset[0] == '' %}
-                        .thumbnail {
-                            background-image: url("{{ page.thumbnail | prepend: site.baseurl }}");
-                        }
-                    {% else %}
                         .thumbnail {
                             background-image: url("{{ page.thumbnail }}");
                         }
-                    {% endif %}
                 </style>
             {% else %}
                 <style>
