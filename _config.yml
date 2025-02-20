@@ -43,7 +43,7 @@ defaults:
   - scope:
       path: "_notes/**/*.md"
     values:
-      layout: "garden_note"
+      layout: "note"
 
 # Markdown newline activator 
 kramdown:
