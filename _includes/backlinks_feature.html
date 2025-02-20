@@ -11,7 +11,7 @@
       {% endunless %}
   {% endfor %}
 
-  {% for entry in site.pages %}
+  {% for entry in site.posts %}
       {% if entry.content contains page.permalink %}
           {% assign backlinks = backlinks | push: entry %}
       {% endif %}
@@ -29,7 +29,7 @@
       {% endunless %}
   {% endfor %}
 
-  {% for entry in site.pages %}
+  {% for entry in site.posts %}
       {% if entry.content contains filename %}
           {% assign backlinks = backlinks | push: entry %}
       {% endif %}
