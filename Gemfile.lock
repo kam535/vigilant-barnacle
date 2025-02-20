@@ -153,7 +153,7 @@ PLATFORMS
 
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
-  jekyll (>= 4.4, < 5.0)
+  jekyll (~> 4.4)
   jekyll-feed (~> 0.12)
   jekyll-last-modified-at!
   jekyll-loading-lazy (~> 0.1.1)
