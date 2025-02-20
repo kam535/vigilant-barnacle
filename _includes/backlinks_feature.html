@@ -17,7 +17,7 @@
       {% endif %}
   {% endfor %}
 
-{% elseif page.layout == "post" %}
+{% elsif page.layout == "post" %}
   {% assign backlinks = '' | split: '' %}
   {% assign filename = page.path | remove: "_posts/" | remove: ".md" %}
 
