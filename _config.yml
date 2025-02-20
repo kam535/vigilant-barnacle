@@ -7,15 +7,6 @@ profile_img: "/assets/img/profile_pic.png"
 email: kyran.a.williams@gmail.com
 github_username: kam535
 
-heading: Jekyll Garden # Change this 
-content: Obsidian ready Jekyll Theme
-copyright:  
-  year: © 2022
-  msg: Contents under CC-BY-NC 
-
-# If your repo name follows the format "<user-name>.github.io", then leave the below blank.
-# Otherwise, set its value as "/<repo-name>". ex) baseurl: /myblog
-baseurl: ''
 # Build settings
 theme: null
 plugins:
@@ -24,29 +15,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-loading-lazy
   - jekyll-tidy
-      
-sass:
-  style: compressed
   
-collections:
-    notes:
-      output: true
-      permalink: /note/:title
-
-preferences:
-  search:
-    enabled: true
-  wiki_style_link: 
-    enabled: true
-  pagepreview: 
-    enabled: true
-  backlinks:
-    enabled: true
-
- homepage: 
-   enabled: false
-
-
 kramdown:
   input: GFM
   hard_wrap: true
