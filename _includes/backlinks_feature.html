@@ -1,0 +1,51 @@
+<!-- initialize an empty array -->
+{% if page.layout == "page" % }
+  {% assign backlinks = '' | split: '' %}
+
+  {% for entry in site.pages %}
+    <!-- don't care about generated JSON files but still counts as a page -->
+      {% unless entry.url contains ".json" %}
+          {% if entry.content contains page.permalink %}
+              {% assign backlinks = backlinks | push: entry %}
+          {% endif %}
+      {% endunless %}
+  {% endfor %}
+
+  {% for entry in site.posts %}
+      {% if entry.content contains page.permalink %}
+          {% assign backlinks = backlinks | push: entry %}
+      {% endif %}
+  {% endfor %}
+
+{% elseif page.layout == "post" %}
+  {% assign backlinks = '' | split: '' %}
+  {% assign filename = page.path | remove: "_posts/" | remove: ".md" %}
+
+  {% for entry in site.pages %}
+      {% unless entry.url contains ".json" %}
+          {% if entry.content contains filename %}
+              {% assign backlinks = backlinks | push: entry %}
+          {% endif %}
+      {% endunless %}
+  {% endfor %}
+
+  {% for entry in site.posts %}
+      {% if entry.content contains filename %}
+          {% assign backlinks = backlinks | push: entry %}
+      {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% if backlinks.size > 0 %}
+    <p>
+        Pages That Link Here:
+    </p>
+
+    <ul>
+        {% for entry in backlinks %}
+            <li>
+                <a href="{{ entry.url }}">{{ entry.title }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+{% endif %}
