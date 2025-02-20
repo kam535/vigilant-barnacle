@@ -18,6 +18,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-loading-lazy
+  - backlinks_generator
 
 exclude:
   - docs/
