@@ -1,4 +1,4 @@
-title: "Kiran Mohammadi-Williams"
+title: Kiran Mohammadi-Williams
 description: "A personal portfolio"
 logo_img: "/assets/img/logo.png"
 profile_img: "/assets/img/profile_pic.png"
@@ -7,59 +7,39 @@ profile_img: "/assets/img/profile_pic.png"
 email: kyran.a.williams@gmail.com
 github_username: kam535
 
+
+# If your repo name follows the format "<user-name>.github.io", then leave the below blank.
+# Otherwise, set its value as "/<repo-name>". ex) baseurl: /myblog
+baseurl:
+
 # Build settings
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-loading-lazy
-  - jekyll-tidy
 
-homepage:
-  enabled: false
-  
+exclude:
+  - docs/
+
+
+collections:
+  pages:
+    output: true
+    permalink: /:path.html
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+
+
+    values:
+      layout: "page"
+      date: "1900-01-01"
+
+# Markdown newline activator 
 kramdown:
   input: GFM
   hard_wrap: true
-  math_engine: katex
-  smart_quotes: ["apos", "apos", "quot", "quot"]
-  syntax_highlighter: rouge
-
-preferences:
-  search:
-    enabled: true
-  wiki_style_link: 
-    enabled: true
-  pagepreview: 
-    enabled: true
-  backlinks:
-    enabled: true
-
-defaults:
-  - scope:
-      path: "**/*"
-    values:
-      layout: "page"
-  - scope:
-      path: ""
-      type: notes
-    values:
-      layout: "Post"
-      content-type: notes
-      
-collections:
-    notes:
-      output: true
-      permalink: /note/:title
-      
-exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
