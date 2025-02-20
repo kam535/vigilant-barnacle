@@ -38,11 +38,9 @@ preferences:
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: page
     values:
-      layout: Post
-      permalink: /post/:title
-      content-type: post
+      layout: page
   - scope:
       path: ""
       type: notes
