@@ -8,7 +8,6 @@ email: kyran.a.williams@gmail.com
 github_username: kam535
 
 # Build settings
-theme: null
 plugins:
   - jekyll-feed
   - jekyll-sitemap
