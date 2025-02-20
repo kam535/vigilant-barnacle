@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-    {%- assign page_tree = page.path | remove_first: "_pages/" | split: "/" -%}
-    {%- assign page_level = page_tree.size -%}
-    {%- assign page_type = "post" -%}
     <head>
         {% include head.html %}
         <link rel="preload" href="{{ site.profile_img | prepend: site.baseurl }}" as="image">
@@ -59,12 +56,8 @@
                 <span class="dot" style="background-color: #2ACB45;"></span>
             </div>
             <div class="inner-content">
-                {% if page_type == "category" %}
                     {% include loading.html %}
-                    {% include pagination.html %}
-                {% else %}
                     {% include post.html %}
-                {% endif %}
             </div>
         </div>
         {% include search.html %}
