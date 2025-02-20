@@ -7,12 +7,17 @@ profile_img: "/assets/img/profile_pic.png"
 email: kyran.a.williams@gmail.com
 github_username: kam535
 
-
+heading: Jekyll Garden # Change this 
+content: Obsidian ready Jekyll Theme
+copyright:  
+  year: © 2022
+  msg: Contents under CC-BY-NC 
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /myblog
 baseurl: ''
 # Build settings
+theme: null
 plugins:
   - jekyll-feed
   - jekyll-sitemap
