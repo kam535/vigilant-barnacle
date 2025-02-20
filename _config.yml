@@ -50,6 +50,11 @@ defaults:
       layout: Post
       content-type: notes
       
+collections:
+    notes:
+      output: true
+      permalink: /note/:title
+      
 exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
