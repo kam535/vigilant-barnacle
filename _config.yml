@@ -21,6 +21,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-loading-lazy
   - jekyll-last-modified-at
+  - bidirectional_links_generator
 
 sass:
   sass_dir:          _sass
