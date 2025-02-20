@@ -1,8 +1,6 @@
 ---
-title: Home
-id: home
+title: ''
 layout: page
-permalink: /
 ---
 <style>
   .welcome-div {
