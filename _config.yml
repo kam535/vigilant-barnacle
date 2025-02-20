@@ -15,6 +15,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-loading-lazy
   - jekyll-tidy
+
+ homepage: 
+   enabled: false
   
 kramdown:
   input: GFM
