@@ -1,4 +1,4 @@
-title: Kiran Mohammadi-Williams
+title: "Kiran Mohammadi-Williams"
 description: "A personal portfolio"
 logo_img: "/assets/img/logo.png"
 profile_img: "/assets/img/profile_pic.png"
@@ -11,8 +11,8 @@ github_username: kam535
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /myblog
-url: ''
-baseurl: ''
+url: ""
+baseurl: ""
 safe: false
 # Build settings
 plugins:
@@ -23,7 +23,7 @@ plugins:
   - jekyll-tidy
       
 sass:
-  style:            :compressed
+  style: compressed
 
 privatelinks:
   title: Private or Broken Links
