@@ -8,7 +8,6 @@ gem "jekyll", ">= 4.4", "< 5.0"
 gem "jekyll-last-modified-at", git: "https://github.com/maximevaillancourt/jekyll-last-modified-at", branch: "add-support-for-files-in-git-submodules"
 gem "webrick", "~> 1.9"
 gem "nokogiri"
-# gem "github-pages", group: :jekyll_plugins
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
