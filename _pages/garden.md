@@ -3,7 +3,6 @@ layout: garden_page
 title: the garden
 thumbnail: /assets/img/thumbnail/sample.png
 id: garden_home
-permalink: /garden.html
 ---
 
 # Welcome! 🌱
