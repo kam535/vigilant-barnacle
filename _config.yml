@@ -37,15 +37,14 @@ preferences:
 
 defaults:
   - scope:
-      path: ""
-      type: page
+      path: "**/*"
     values:
-      layout: page
+      layout: "page"
   - scope:
       path: ""
       type: notes
     values:
-      layout: Post
+      layout: "Post"
       content-type: notes
       
 collections:
