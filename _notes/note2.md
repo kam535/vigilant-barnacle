@@ -1,6 +1,6 @@
 ---
 title: note2
-layout: garden_note
+layout: note
 ---
 
 This is another note!
