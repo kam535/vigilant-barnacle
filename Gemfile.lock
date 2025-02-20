@@ -12,7 +12,6 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    execjs (2.10.0)
     ffi (1.17.1-aarch64-linux-gnu)
     ffi (1.17.1-aarch64-linux-musl)
     ffi (1.17.1-arm-linux-gnu)
@@ -37,8 +36,6 @@ GEM
     google-protobuf (4.29.3-x86_64-linux)
       bigdecimal
       rake (>= 13)
-    htmlbeautifier (1.4.3)
-    htmlcompressor (0.4.0)
     http_parser.rb (0.8.0)
     i18n (1.14.7)
       concurrent-ruby (~> 1.0)
@@ -72,20 +69,11 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-tidy (0.2.2)
-      htmlbeautifier
-      htmlcompressor
-      jekyll
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     json (2.10.1)
-    katex (0.10.0)
-      execjs (~> 2.8)
     kramdown (2.5.1)
       rexml (>= 3.3.9)
-    kramdown-math-katex (1.0.1)
-      katex (~> 0.4)
-      kramdown (~> 2.0)
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.4)
@@ -139,7 +127,7 @@ GEM
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
     unicode-display_width (2.6.0)
-    webrick (1.9.1)
+    webrick (1.7.0)
 
 PLATFORMS
   aarch64-linux
@@ -157,19 +145,16 @@ PLATFORMS
 
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
-  jekyll (~> 4.4)
+  jekyll (>= 3.9, < 5.0)
   jekyll-feed (~> 0.12)
   jekyll-loading-lazy (~> 0.1.1)
   jekyll-seo-tag (~> 2.6)
   jekyll-sitemap (~> 1.3)
-  jekyll-tidy
-  kramdown-math-katex
   kramdown-parser-gfm (~> 1.1.0)
-  nokogiri
-  tzinfo (~> 1.2)
+  tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1.1)
-  webrick (~> 1.9)
+  webrick (~> 1.7.0)
 
 BUNDLED WITH
    2.6.4
