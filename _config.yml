@@ -25,6 +25,16 @@ kramdown:
   smart_quotes: ["apos", "apos", "quot", "quot"]
   syntax_highlighter: rouge
 
+preferences:
+  search:
+    enabled: true
+  wiki_style_link: 
+    enabled: true
+  pagepreview: 
+    enabled: true
+  backlinks:
+    enabled: true
+    
 exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
