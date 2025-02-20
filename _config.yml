@@ -22,10 +22,6 @@ plugins:
       
 sass:
   style: compressed
-
-privatelinks:
-  title: Private or Broken Links
-  msg: "The page you're looking for is either not available or private!"
   
 collections:
     notes:
