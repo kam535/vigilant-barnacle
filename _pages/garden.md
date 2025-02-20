@@ -8,7 +8,7 @@ permalink: /garden.html
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold"> {% post_url note %} </span> to get started on your exploration.
+  Take a look at <span style="font-weight: bold"> {% post_url 07-09-2021-note %} </span> to get started on your exploration.
 </p>
 
 This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
