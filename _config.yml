@@ -15,8 +15,8 @@ plugins:
   - jekyll-loading-lazy
   - jekyll-tidy
 
- homepage: 
-   enabled: false
+homepage:
+  enabled: false
   
 kramdown:
   input: GFM
