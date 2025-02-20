@@ -7,11 +7,11 @@ profile_img: "/assets/img/profile_pic.png"
 email: kyran.a.williams@gmail.com
 github_username: kam535
 
-open_external_links_in_new_tab: true
-use_html_extension:  false
+
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /myblog
+url: ''
 baseurl: ''
 safe: false
 # Build settings
@@ -20,31 +20,67 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-loading-lazy
-  - jekyll-last-modified-at
-
+  - jekyll-tidy
+      
 sass:
-  sass_dir:          _sass
   style:            :compressed
 
-include:             ['_pages']
-exclude:             ['_includes/notes_graph.json']
-
+privatelinks:
+  title: Private or Broken Links
+  msg: "The page you're looking for is either not available or private!"
+  
 collections:
-  pages:
-    output: true
-    permalink: /:path.html
+    notes:
+      output: true
+      permalink: /note/:title
 
-defaults:
-  - scope:
-      path: "**/*"
-    values:
-      layout: "default"
-  - scope:
-      path: "_notes/**/*.md"
-    values:
-      layout: "note"
+preferences:
+  search:
+    enabled: true
+  wiki_style_link: 
+    enabled: true
+  pagepreview: 
+    enabled: true
+  backlinks:
+    enabled: true
 
-# Markdown newline activator 
+ homepage: 
+    enabled: false
+
+
 kramdown:
   input: GFM
   hard_wrap: true
+  math_engine: katex
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+  syntax_highlighter: rouge
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: Post
+      permalink: /post/:title
+      content-type: post
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: Post
+      content-type: notes
+
+exclude:
+  - _notes/000 Inbox
+  - _notes/200 Private
+  - _notes/300 Templates
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
