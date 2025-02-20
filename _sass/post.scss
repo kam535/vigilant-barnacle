@@ -674,6 +674,20 @@ main {
   border-radius:0 0 1rem 1rem;
 }
 
+.backlink-box {
+        background-color: #fffdf7;
+        
+}
+.backlink-box:before {
+        content: "What links here";
+            font-style: italic;
+            
+}
+.backlink-box li {
+        line-height: 1em;
+        
+}
+
 .top-arrow { left:calc(#{$sidebarwd} + var(--pagewidth-desktop) - 4rem); }
 
 }
