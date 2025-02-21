@@ -10,7 +10,7 @@ github_username: kam535
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
 # Otherwise, set its value as "/<repo-name>". ex) baseurl: /myblog
-baseurl:
+baseurl: ''
 
 # Build settings
 plugins:
