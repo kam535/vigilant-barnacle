@@ -18,7 +18,7 @@ Librarian • Medievalist • Book lover • Viridiphile
 <img src="https://kam535.github.io/assets/img/banner.png">
 <hr>
 Hello, and welcome to the personal portfolio of Kiran Mohammadi-Williams (she/hers). I'm a library professional, and have been working in libraries and museum (GLAM) spaces since 2021. I'm particularly interested in digital humanities, special collections and paper conservation, book history, textile history, medievalisms, classics, and art history. I'm excited and challenged when I have the opportunity to explore the intersections of art and information!
-
+<br>
 I'm also a medievalist, studying the iconography of clerical vestments from the Latin West (particularly Germany and England) ca. 1250-1400 and their performance and relationship to the human body, sensorial experience, and liturgical performance. 
 
 My goal is to make academia and the material objects that support it more accessible to people of colour (BIPOC) wherever I go. I'm passionate about critical pedagogy, a Both/And approach to teaching and research, public-facing scholarship, and forming community partnerships in academic spaces.
